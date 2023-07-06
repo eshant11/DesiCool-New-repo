@@ -1,6 +1,6 @@
 {
   "name": "desicool",
-  "homepage": "https://eshant11.github.io/IceCream-Project",
+  "homepage": "https://eshant11.github.io/DesiCool-New-repo",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
